@@ -1,0 +1,31 @@
+.Text-4{ font-family: Arial, Helvetica, sans-serif; color: black;}
+.Text-1 {font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;}
+.Text-2{ font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;}
+
+
+body { 
+    font-family: sans-serif;
+    margin: 0; }
+
+
+header{ background-color: rgb(7, 36, 129); display: flex; min-height: 90px; align-items: center; padding: 20px;
+flex-direction: column;}
+
+    a{text-decoration: none;
+    
+    color: grey;
+    }
+ 
+    .Text-4 img {margin-left: 20px; margin-bottom: 10px; }
+    .Text-4 img:hover { transform: scale(1.1);  transition: 2s;
+    }
+
+    nav a{ font-weight: 600;
+    margin-left: 40px;
+    }
+
+    nav a:hover {
+color:red;
+    }
